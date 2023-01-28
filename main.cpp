@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;
+using namespace std;//conflit1
 int main () {
 
 
